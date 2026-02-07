@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi!
 ## i study statistics at UBC!
 <!--
 **carlojozef/carlojozef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
